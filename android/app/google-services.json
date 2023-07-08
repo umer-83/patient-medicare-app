@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "739668835639",
+    "project_id": "pmedic-21663",
+    "storage_bucket": "pmedic-21663.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739668835639:android:b9f28af26d75e8b3302eb2",
+        "android_client_info": {
+          "package_name": "com.example.pmedic_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739668835639-4qovga26bh10t72md6n8iikm7vakjqdb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjX-vs0huYnJ38rdFa9K_wHjxA4VlCMyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739668835639-4qovga26bh10t72md6n8iikm7vakjqdb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
